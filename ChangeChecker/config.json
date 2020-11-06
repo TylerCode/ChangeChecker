@@ -1,0 +1,8 @@
+{
+    "watchUrl":"https://store.steampowered.com/valveindex",
+    "watchTerm":"out of stock",
+    "twilioAccountSID":"accountSID",
+    "twilioAccountToken":"accountToken",
+    "twilioPhoneNumber":"phoneNumber",
+    "yourPhoneNumber":"phoneNumber"
+}
